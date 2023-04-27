@@ -1,1 +1,1 @@
-# C-dillinde-basit-ATM-kodu
+# C-dillinde-ATM-kodu
